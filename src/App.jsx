@@ -16,6 +16,4 @@ const Area = styled.div`
   height: 100vh;
 `;
 
-// 코드 수정 주석
-// 이슈 넘버링 테스트
-//테스트1
+//디벨롭
