@@ -15,3 +15,5 @@ export default function App() {
 const Area = styled.div`
   height: 100vh;
 `;
+
+// 코드 수정 주석
